@@ -11,7 +11,7 @@ Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come 
 - SE non hai salvato i documenti
     - salva i documenti
     - chiudi i documenti
-- SE hai salvato i documenti
+- ALTRIMENTI se hai salvato i documenti
     - Chiudi i documenti
 - Cercare la pizzeria
 - Consulta il listino prezzi
@@ -19,7 +19,7 @@ Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come 
 - Scorri il listino
 - SE non hai deciso il tipo di pizza da ordinare
     - continua a sfogliare il listino
-- SE hai deciso la pizza da ordinare
+- ALTRIMENTI se hai deciso la pizza da ordinare
     - Chiama la pizzeria
     - Ordina la tua classica prosciutto e funghi
     - Informati sul tempo di arrivo
@@ -34,11 +34,11 @@ Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come 
 - Accendi la televisione
 - SE non hai deciso cosa vedere 
     - Continua a cambiare programma
-- SE hai scelto cosa vedere
+- ALTRIMENTI se hai scelto cosa vedere
     - Posa il telecomendo
 - Apri lo scatolo della pizza
 - Mangia la piza
 - SE non riesci a finirla tutta
     - Posa la restante parte all'interno del frigorifero
-- SE sei riuscito a finirla
+- ALTRIMENTI se sei riuscito a finirla
     - Getta lo scatolo nell'apposito sacco
